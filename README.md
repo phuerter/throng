@@ -1,0 +1,2 @@
+# throng
+Throng - 1. a large, densely packed crowd of people or animals. "he pushed his way through the throng".   A system to support non-violent political protest i.e. large demonstrations, direct action.  The system allows each participant to describe why they have assembled.  All responses are aggregated and the "answer" is decorated with consensus information.  This makes it harder to discredit the action and could be used to facilitate meaningful dialog at scale.
